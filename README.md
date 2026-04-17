@@ -45,12 +45,12 @@ Flagged invalid records where discount exceeded gross amount
 
 **📸 Snapshots**
 
-E-commerce Sales Performance Dashboard - 
-Year-over-Year Sales Analysis - 
-Offer Performance Analysis - 
-Geographical Sales Analysis - 
-Revenue Leakage & Profit Impact Analysis - 
-Customer Demographics Analysis - 
+E-commerce Sales Performance Dashboard - https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/E-commerce%20Sales%20Performance%20Dashboard.png
+Year-over-Year Sales Analysis - https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/Year-over-Year%20Sales%20Analysis.jpg
+Offer Performance Analysis - https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/Offer%20Performance%20Analysis.jpg
+Geographical Sales Analysis - https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/Geographical%20Sales%20Analysis.jpg
+Revenue Leakage & Profit Impact Analysis - https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/Revenue%20Leakage%20%26%20Profit%20Impact%20Analysis.jpg
+Customer Demographics Analysis - https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/Customer%20Demographics%20Analysis.jpg
 
 
 **📊 Dashboard Walkthrough**
