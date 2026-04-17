@@ -20,8 +20,8 @@ Power BI – Dashboard creation and visualization
 Power Query (ETL) – Data cleaning and transformation
 DAX – Measures and KPIs (YoY Growth, AOV, Contribution %, Leakage Ratio)
 MySQL Workbench – Data cleaning and preprocessing using SQL
-Excel / CSV – Data source
-Data Modeling – Relationships and data structuring
+Excel / CSV - Data source
+Data Modeling - Relationships and data structuring
 
 **📂 Data Source**
 A simulated E-commerce dataset containing:
