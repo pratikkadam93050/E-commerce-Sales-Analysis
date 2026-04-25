@@ -42,6 +42,7 @@ Checked for duplicate transactions (none found)
 Standardized text fields (uppercase formatting)
 Performed data validation checks
 Flagged invalid records where discount exceeded gross amount
+## SQL Scripts : 
 
 **📸 Snapshots**
 
