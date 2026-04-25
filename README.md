@@ -42,7 +42,7 @@ Checked for duplicate transactions (none found)
 Standardized text fields (uppercase formatting)
 Performed data validation checks
 Flagged invalid records where discount exceeded gross amount
-## SQL Scripts : 
+## SQL Scripts : https://github.com/pratikkadam93050/E-commerce-Sales-Analysis/blob/main/ecommerce_sales.sql
 
 **📸 Snapshots**
 
